@@ -11,6 +11,6 @@
 **To do this challenge, you need  understanding of HTML and CSS.**
 
 
-
+Live version: https://maneltech.github.io/Huddle/
 
  
